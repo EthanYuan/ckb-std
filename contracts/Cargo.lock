@@ -42,7 +42,7 @@ checksum = "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd"
 [[package]]
 name = "ckb-gen-types"
 version = "0.112.0-pre"
-source = "git+https://github.com/eval-exec/ckb.git?branch=exec/fix-cargo-metadata#ad52c85cfb754764b422ebf55a00f1c90e5158c2"
+source = "git+https://github.com/eval-exec/ckb.git?rev=f3bc19715a19b3de65f11a6ca75b7e73742fb9fc#f3bc19715a19b3de65f11a6ca75b7e73742fb9fc"
 dependencies = [
  "cfg-if",
  "ckb-hash",
@@ -52,7 +52,7 @@ dependencies = [
 [[package]]
 name = "ckb-hash"
 version = "0.112.0-pre"
-source = "git+https://github.com/eval-exec/ckb.git?branch=exec/fix-cargo-metadata#ad52c85cfb754764b422ebf55a00f1c90e5158c2"
+source = "git+https://github.com/eval-exec/ckb.git?rev=f3bc19715a19b3de65f11a6ca75b7e73742fb9fc#f3bc19715a19b3de65f11a6ca75b7e73742fb9fc"
 dependencies = [
  "blake2b-ref",
  "blake2b-rs",
